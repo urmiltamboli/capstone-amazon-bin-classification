@@ -1,1 +1,1 @@
-# capstone-amazon-bin-classification
+## Amazon Bin Classification Project
