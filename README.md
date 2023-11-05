@@ -89,6 +89,21 @@ in size. The following steps were done during the modelling:
 
 **Evaluation Metrics**
 
+In this project, we will be using accuracy and RMSE to evaluate the model and compare it with the benchmark model
+accuracy = correct predictions / total predictions
+RMSE = sqrt(sum((predicted_count - true_count)^2) / n)
+n = Total number of observations
+
+Cross-Entropy Loss
+
+ ![CEL For](misc-snaps/cel_.png)
+ 
+Where p(x) is the true probability distribution and q(x) is the predicted probability distribution
+Loss 
+
+![Loss_for](misc-snaps/loss.png) 
+where n is the number of samples in the test dataset, yi is the true value of the ith sample, and yi^ is the predicted value of the ith sample.
+
 
 **Model Training Metrics**
 
