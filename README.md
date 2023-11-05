@@ -39,7 +39,7 @@ the above process.
 **Datasets and Inputs**
 
 For this project, we will be using the [Amazon Bin Image
-Dataset](https://registry.opendata.aws/amazon-bin-imagery/)^3. This
+Dataset](https://registry.opendata.aws/amazon-bin-imagery/)<sup>3</sup>. This
 dataset includes over 500,000 bin JPEG images and corresponding JSON
 metadata files describing items in bins in Amazon Fulfillment Centers.
 The dataset is available on Amazon S3 and can be imported from there. In
