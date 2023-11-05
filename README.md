@@ -122,8 +122,7 @@ from the set named 767. We can see it predicts to have 3 pieces in the
 bin. It is indexed which is the reason it is showing array(\[2\]) which
 falls on the third as marked below.
 
-![A screenshot of a computer Description automatically
-generated](media/image4.png){width="6.5in" height="6.576388888888889in"}
+![Predictions](misc-snaps/preds.png)
 
 ## Conclusion
 
@@ -133,9 +132,7 @@ intervals caused by small dataset and outliers. This can be improved by
 increasing the dataset size and cleaning the dataset to remove the
 outlier to help us achieve a better result.
 
-![A graph of a graph Description automatically generated with medium
-confidence](media/image5.png){width="6.5in"
-height="4.865277777777778in"}
+![Cross Entropy Loss](misc-snaps/cel.png)
 
 **References**
 
