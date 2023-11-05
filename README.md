@@ -54,6 +54,18 @@ the training script.
 
 ![Dist](misc-snaps/dist.png)
 
+## Data Preprocessing
+
+Following preprocessing was on the data for our requirement:
+•	Load the image from the input data
+•	Resize the image to a fixed size
+•	Convert the image to a PyTorch tensor
+•	Normalize the pixel values of the image
+•	Pass the normalized image through the machine learning model for prediction
+
+
+![Pre](misc-snaps/prepos.png)
+
 **Modelling**
 
 **Pipeline**
