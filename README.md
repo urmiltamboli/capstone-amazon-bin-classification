@@ -1,4 +1,4 @@
-#Inventory Monitoring at Distribution Centers
+# Inventory Monitoring at Distribution Centers
 
 ## Project Setup and Installation
 
@@ -34,7 +34,7 @@ the above process.
 
 -   inference.py was used to create the endpoint to get our predictions.
 
-## [Data Acquisition and Exploration]{.underline}**
+## Data Acquisition and Exploration
 
 **Datasets and Inputs**
 
@@ -56,7 +56,7 @@ the training script.
 generated](media/image1.png){width="2.602724190726159in"
 height="2.03125in"}
 
-**[Modelling]{.underline}**
+**Modelling**
 
 **Pipeline**
 
@@ -77,7 +77,7 @@ in size. The following steps were done during the modelling:
 
 -   Multi-instance training was performed.
 
-**Model Training Metrics**
+## Model Training Metrics
 
 For the model trained with default hyperparameters of learning rate 0.01
 and Batch size 64 we get the below results:
@@ -130,7 +130,7 @@ falls on the third as marked below.
 ![A screenshot of a computer Description automatically
 generated](media/image4.png){width="6.5in" height="6.576388888888889in"}
 
-**[Conclusion]{.underline}**
+## Conclusion
 
 The cross-entropy loss graph can be seen below. It is challenging to
 understand the model learning because of various spikes at many
