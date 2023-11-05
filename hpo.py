@@ -1,7 +1,5 @@
 #TODO: Import your dependencies.
 #For instance, below are some dependencies you might need if you are using Pytorch
-#TODO: Import your dependencies.
-#For instance, below are some dependencies you might need if you are using Pytorch
 # Adapted code from project3, lesson3, ex13 finetune_a_cnn_solution.py and lesson4, ex13 cifar.py
 
 from IPython.core.debugger import set_trace
