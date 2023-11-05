@@ -102,6 +102,7 @@ Where p(x) is the true probability distribution and q(x) is the predicted probab
 Loss 
 
 ![Loss_for](misc-snaps/loss.png) 
+
 where n is the number of samples in the test dataset, yi is the true value of the ith sample, and yi^ is the predicted value of the ith sample.
 
 
