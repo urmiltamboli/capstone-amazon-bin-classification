@@ -87,7 +87,10 @@ in size. The following steps were done during the modelling:
 
 -   Multi-instance training was performed.
 
-## Model Training Metrics
+**Evaluation Metrics**
+
+
+**Model Training Metrics**
 
 For the model trained with default hyperparameters of learning rate 0.01
 and Batch size 64 we get the below results:
