@@ -39,7 +39,7 @@ the above process.
 **Datasets and Inputs**
 
 For this project, we will be using the [Amazon Bin Image
-Dataset](https://registry.opendata.aws/amazon-bin-imagery/)<sup>3</sup>. This
+Dataset](https://registry.opendata.aws/amazon-bin-imagery/)<sup>1</sup>. This
 dataset includes over 500,000 bin JPEG images and corresponding JSON
 metadata files describing items in bins in Amazon Fulfillment Centers.
 The dataset is available on Amazon S3 and can be imported from there. In
@@ -105,7 +105,7 @@ RMSE: 1.3228756555322954
 **Model Benchmarking**
 
 For this project we have used made by author can be found
-[here](https://github.com/silverbottlep/abid_challenge)^4^. The
+[here](https://github.com/silverbottlep/abid_challenge)<sup>2</sup>. The
 performance of the benchmark is as below:
 
 Testing Accuracy: 55.67
@@ -139,18 +139,11 @@ height="4.865277777777778in"}
 
 **References**
 
-1.  Howe, P. (2023, October 27). *Wakefern achieves inventory management
-    with computer vision and ai*. RFID JOURNAL.
-    https://www.rfidjournal.com/wakefern-achieves-inventory-management-with-computer-vision-and-ai
 
-2.  *How to use Computer Vision for inventory monitoring in Supply
-    Chain*. EPAM. (2023, February 28).
-    https://www.epam.com/insights/blogs/how-to-use-computer-vision-for-inventory-monitoring-in-supply-chain
-
-3.  *Amazon bin image dataset*. Amazon Bin Image Dataset - Registry of
+1.  *Amazon bin image dataset*. Amazon Bin Image Dataset - Registry of
     Open Data on AWS. (n.d.).
     https://registry.opendata.aws/amazon-bin-imagery/
 
-4.  Silverbottlep. (n.d.). *Silverbottlep/abid_challenge: Amazon bin
+2.  Silverbottlep. (n.d.). *Silverbottlep/abid_challenge: Amazon bin
     image dataset challenge*. GitHub.
     https://github.com/silverbottlep/abid_challenge
