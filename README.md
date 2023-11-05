@@ -88,14 +88,11 @@ RMSE: 1.3228756555322954
 
 Training the model with different ranges of hyperparameters as below:
 
-![A close-up of a number Description automatically
-generated](media/image2.png){width="3.9067957130358706in"
-height="0.4376388888888889in"}
+![Hyperparamters](misc-snaps/hpo.png)
 
 The best hyperparameter selected were as below:
 
-![](media/image3.png){width="4.2714293525809275in"
-height="0.27087160979877517in"}
+![Best_Hyperparamters](misc-snaps/best_hpo.png)
 
 We get the below results:
 
