@@ -52,9 +52,7 @@ see up to 5 pieces, 3 pieces bins have the highest quantity. The data
 was randomly split into training 60%, validation 20% and testing 20% in
 the training script.
 
-![A bar graph with numbers and text Description automatically
-generated](media/image1.png){width="2.602724190726159in"
-height="2.03125in"}
+![Dist](misc-snaps/dist.png)
 
 **Modelling**
 
