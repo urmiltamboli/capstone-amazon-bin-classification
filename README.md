@@ -1,6 +1,6 @@
-**Inventory Monitoring at Distribution Centers**
+#Inventory Monitoring at Distribution Centers
 
-**Project Setup and Installation**
+## Project Setup and Installation
 
 AWS Sagemaker, S3, Jupyter notebook, Python PyTorch and other libraries
 were used for this project. Detailed description can be found within the
@@ -34,7 +34,7 @@ the above process.
 
 -   inference.py was used to create the endpoint to get our predictions.
 
-**[Data Acquisition and Exploration]{.underline}**
+## [Data Acquisition and Exploration]{.underline}**
 
 **Datasets and Inputs**
 
